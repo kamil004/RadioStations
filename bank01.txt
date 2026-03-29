@@ -1,6 +1,14 @@
-PulsRadio Dance           Bank 1 Stacja 1   http://icecast1.pulsradio.com:8080/pulsAAC64.mp3
+PulsRadio Dance           Bank 1 Stacja 1   https://sc4.gergosnet.com/pulsAAC64.mp3
 PulsRadio 2000            Bank 1 Stacja 2   https://sc3.gergosnet.com/puls00AAC64.mp3
-PulsRadio 90'             Bank 1 Stacja 3   http://icecast1.pulsradio.com:8080/90s_s64.mp3
+PulsRadio 90'             Bank 1 Stacja 3   https://sc4.gergosnet.com/puls90AAC64.mp3
 PulsRadio Trance          Bank 1 Stacja 4   https://sc5.gergosnet.com/pulstranceAAC64.mp3
 PulsRadio Longue          Bank 1 Stacja 5   https://sc7.gergosnet.com/relaxAAC64.mp3
 PulsRadio Hits            Bank 1 Stacja 6   https://sc7.gergosnet.com/hitpartyAAC64.mp3
+RadioZET                  Bank 1 Stacja 7   https://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx
+Radio ESKA                Bank 1 Stacja 8   https://waw.ic.smcdn.pl/2380-1.aac
+Radio ESKA2               Bank 1 Stacja 9   https://waw.ic.smcdn.pl/1380-2.aac
+Radio PLUS                Bank 1 Stacja 10  https://pl.cdn.eurozet.pl/plu-waw.mp3
+Muzo FM                   Bank 1 Stacja 11  https://stream.rcs.revma.com/1nnezw8qz7zuv
+Radio Pogoda              Bank 1 Stacja 12  https://radiostream.pl/tuba38-1.aac
+Radio Chill ZET           Bank 1 Stacja 13  https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
+Radio Party Vocal Trance  Bank 1 STacja 14  https://s2.radioparty.pl:8020/vocaltrance
