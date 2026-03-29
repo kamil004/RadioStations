@@ -1,4 +1,4 @@
 Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-kat.mp3
 Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8910-1.mp3
 RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
-PulsRadio Dance           Bank 1 Stacja 4   http://icecast.pulsradio.com:80/pulsHD.mp3
+PulsRadio Dance           Bank 1 Stacja 4   http://icecast1.pulsradio.com:8080/pulsAAC64.mp3
